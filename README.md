@@ -1,24 +1,72 @@
-# 💫 About Me:
-🔭 I’m currently working on a finding a new way to optimize ray tracing<br>👯 I’m looking to collaborate on...<br>🤝 I’m looking for help with...<br>🌱 I’m currently learning Java
+# Hi, I'm Prakhar Agrawal (PrakharAgrawal031) 👋
 
+Backend & Machine Learning Engineer • Builder of tools, services and stories.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prakhar-agrawal-65950521b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agrawalprakhar031@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrakharAgrawal031&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrakharAgrawal031&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharAgrawal031&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrakharAgrawal031&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I work at a startup building backend systems and machine learning solutions. I love creating new things and staying consistent by focusing on short, achievable goals — that keeps momentum and helps me ship often.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrakharAgrawal031&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Tech badges -->
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+
+---
+
+## 🚀 What I do
+- Backend systems, APIs and microservices (Python, Java)
+- Machine learning models and pipelines (research → production)
+- Cloud deployments, observability and scaling
+- Building small tools and prototypes to validate ideas quickly
+
+---
+
+## 📊 GitHub Stats
+
+![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrakharAgrawal031&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharAgrawal031&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrakharAgrawal031&theme=radical)
+
+---
+
+## ⭐ Featured / Pinned Projects
+Here are the projects I mentioned — short descriptions and quick links. (If any repo slug is different, I can swap these for the exact URLs.)
+
+- [bittorrent-client](https://github.com/PrakharAgrawal031/bittorrent-client) — My custom BitTorrent client: protocol internals, peer discovery and efficient transfers.
+- [recent-backend](https://github.com/PrakharAgrawal031/recent-backend) — The production backend I recently worked on: APIs, auth, scaling and observability.
+- [vrikshnetra](https://github.com/PrakharAgrawal031/vrikshnetra) — Vision/ML project (tree/forest health detection, dataset and pipeline).
+- [tales-of-faerun](https://github.com/PrakharAgrawal031/tales-of-faerun) — Story-driven / creative tooling that combines narrative design and code.
+
+(If you prefer these shown as GitHub pinned repos on your profile, you can pin them via your GitHub profile settings — these links will match those pins.)
+
+---
+
+## 🎯 How I work
+- Break big problems into short, clear goals.
+- Build small, usable increments to stay motivated and consistent.
+- Prefer pragmatic solutions that balance quality and speed.
+
+---
+
+## 📚 What motivates me
+I love stories — in games, books and software. I enjoy story-driven games like Elden Ring, Lies of P, Dark Souls and Ghost of Tsushima, and I read epic fantasy novels. That love for storytelling influences how I design systems and user experiences.
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/agrawal-prakhar031
+- GitHub: https://github.com/PrakharAgrawal031
+
+Feel free to reach out for collaboration!
+
+---
+
+## 🎮 Fun fact
+I prefer story-based games over online FPS. I enjoy exploring narratives, world-building and emergent experiences — the same curiosity feeds my projects.

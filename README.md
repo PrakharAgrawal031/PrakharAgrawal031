@@ -2,7 +2,7 @@
 
 Backend & Machine Learning Engineer • Builder of tools, services and stories.
 
-I work at a startup building backend systems and machine learning solutions. I love creating new things and staying consistent by focusing on short, achievable goals — that keeps momentum and helps me ship often.
+I work at a startup building backend systems and machine learning solutions. I love creating new things and staying consistent by focusing on short, achievable goals, that keeps momentum and helps me ship often.
 
 ---
 
@@ -37,14 +37,14 @@ I work at a startup building backend systems and machine learning solutions. I l
 ---
 
 ## ⭐ Featured / Pinned Projects
-Here are the projects I mentioned — short descriptions and quick links. (If any repo slug is different, I can swap these for the exact URLs.)
+Here are the projects I mentioned short descriptions and quick links. (If any repo slug is different, I can swap these for the exact URLs.)
 
-- [bittorrent-client](https://github.com/PrakharAgrawal031/bittorrent-client) — My custom BitTorrent client: protocol internals, peer discovery and efficient transfers.
-- [recent-backend](https://github.com/PrakharAgrawal031/recent-backend) — The production backend I recently worked on: APIs, auth, scaling and observability.
-- [vrikshnetra](https://github.com/PrakharAgrawal031/vrikshnetra) — Vision/ML project (tree/forest health detection, dataset and pipeline).
-- [tales-of-faerun](https://github.com/PrakharAgrawal031/tales-of-faerun) — Story-driven / creative tooling that combines narrative design and code.
+- [bittorrent-client](https://github.com/PrakharAgrawal031/bittorrent-client) - My custom BitTorrent client: protocol internals, peer discovery and efficient transfers.
+- [recent-backend](https://github.com/PrakharAgrawal031/recent-backend) - The production backend I recently worked on: APIs, auth, scaling and observability.
+- [vrikshnetra](https://github.com/PrakharAgrawal031/vrikshnetra) - Vision/ML project (tree/forest health detection, dataset and pipeline).
+- [tales-of-faerun](https://github.com/PrakharAgrawal031/tales-of-faerun) - Story-driven / creative tooling that combines narrative design and code.
 
-(If you prefer these shown as GitHub pinned repos on your profile, you can pin them via your GitHub profile settings — these links will match those pins.)
+(If you prefer these shown as GitHub pinned repos on your profile, you can pin them via your GitHub profile settings - these links will match those pins.)
 
 ---
 
@@ -56,7 +56,7 @@ Here are the projects I mentioned — short descriptions and quick links. (If an
 ---
 
 ## 📚 What motivates me
-I love stories — in games, books and software. I enjoy story-driven games like Elden Ring, Lies of P, Dark Souls and Ghost of Tsushima, and I read epic fantasy novels. That love for storytelling influences how I design systems and user experiences.
+I love stories - in games, books and software. I enjoy story-driven games like Elden Ring, Lies of P, Dark Souls and Ghost of Tsushima, and I read epic fantasy novels. That love for storytelling influences how I design systems and user experiences.
 
 ---
 
@@ -69,4 +69,4 @@ Feel free to reach out for collaboration!
 ---
 
 ## 🎮 Fun fact
-I prefer story-based games over online FPS. I enjoy exploring narratives, world-building and emergent experiences — the same curiosity feeds my projects.
+I prefer story-based games over online FPS. I enjoy exploring narratives, world-building and emergent experiences - the same curiosity feeds my projects.

@@ -30,8 +30,8 @@ I work at a startup building backend systems and machine learning solutions. I l
 
 ## 📊 GitHub Stats
 
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrakharAgrawal031&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharAgrawal031&layout=compact&theme=radical)
+![Prakhar's GitHub stats](https://github-readme-stats-psi.vercel.app/api?username=PrakharAgrawal031&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-psi.vercel.app/api/top-langs/?username=PrakharAgrawal031&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrakharAgrawal031&theme=radical)
 
 ---
